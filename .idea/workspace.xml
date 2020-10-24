@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39984698-39c1-4949-9416-27fc059b54b9" name="Default Changelist" comment="" />
+    <list default="true" id="39984698-39c1-4949-9416-27fc059b54b9" name="Default Changelist" comment="float update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../varadbhogayata.github.io/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunManager">
@@ -82,6 +82,7 @@
       <workItem from="1603208104148" duration="124000" />
       <workItem from="1603208444745" duration="3199000" />
       <workItem from="1603469426195" duration="6000" />
+      <workItem from="1603529091331" duration="609000" />
     </task>
     <servers />
   </component>
@@ -99,6 +100,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="float update" />
+    <option name="LAST_COMMIT_MESSAGE" value="float update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1601096809226">
